@@ -1,0 +1,12 @@
+446:c88fd0dd5d54fde2217c7b647f99ad71d827d268
+0
+1
+installed:447:3f02e030af00e9b43f080c372f91f81113528177
+1
+mbr: jenkins,noarch,0,2.107.3,1.1 70
+  repo: jenkins
+  ts_state: u
+  output_state: 20
+  isDep: False
+  reason: user
+  reinstall: False
