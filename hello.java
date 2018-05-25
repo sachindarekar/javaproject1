@@ -1,5 +1,5 @@
 class hello{  
     public static void main(String args[]){  
-     System.out.println("Today is friday ");  
+     System.out.println("Hi Sachin ");  
     }  
 }  
